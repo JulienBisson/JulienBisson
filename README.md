@@ -1,3 +1,4 @@
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="profile" width="40" height="40"/>
 <h1 align="center">Hi 👋, I'm Julien 🎮🎧</h1>
 <h3 align="center">A passionate backend developer from Nantes</h3>
 
