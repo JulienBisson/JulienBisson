@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Julien</h1>
+<h1 align="center">Hi 👋, I'm Julien 🎮🎧</h1>
 <h3 align="center">A passionate backend developer from Nantes</h3>
 
 - 🔭 I’m currently working on [HelpRH](https://www.helprh.fr)
 
 - 🌱 I'm currently learning to improve my skills on : **Ruby on Rails and JavaScript**
 
-- 👨‍💻 All of my projects are available on [GitHub repository](https://github.com/JulienBisson?tab=repositories)
+- 👨‍💻 All of my projects are available on my [repository](https://github.com/JulienBisson?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
