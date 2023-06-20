@@ -5,7 +5,7 @@
 
 - 🌱 I'm currently learning to improve my skills on : **Ruby on Rails and JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/JulienBisson?tab=repositories](https://github.com/JulienBisson?tab=repositories)
+- 👨‍💻 All of my projects are available on [GitHub repository](https://github.com/JulienBisson?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
