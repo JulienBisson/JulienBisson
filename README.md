@@ -3,9 +3,9 @@
 
   🔭 I’m currently working on [HelpRH](https://www.helprh.fr)
 
-  🌱 I'm currently learning to improve my skills on : <span style="color:red;">>Ruby on Rails</span> and <span style="color:yellow;">>JavaScript</span>
+  🌱 I'm currently learning to improve my skills on : <span style="color:red;">Ruby on Rails</span> and <span style="color:yellow;">JavaScript</span>
 
-  👨‍💻 All of my projects are available on my [repository](https://github.com/JulienBisson?tab=repositories)
+  👨‍💻 All of my projects are available on my [repositories](https://github.com/JulienBisson?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
